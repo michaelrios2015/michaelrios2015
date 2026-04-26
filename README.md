@@ -34,7 +34,7 @@ React | Redux | Node.js | RESTful APIs | Git | GitHub | VS Code | LaTeX | Anacon
 | [cmoDataPretty](https://github.com/michaelrios2015/cmoDataPretty) | Production full-stack web app ([live site](https://cmo-data-two.herokuapp.com/#)) with React frontend, PostgreSQL database, and custom RESTful APIs — actively used by a real client | React, Node.js, PostgreSQL |
 | [dm_project](https://github.com/michaelrios2015/dm_project) | NLP genre classification of 10K+ books using Naive Bayes and SVM on Wikipedia plot summaries — achieved 90% accuracy with k-means clustered classes | Python, Scikit-learn, NLP |
 | [ML](https://github.com/michaelrios2015/ML) | Multilayer neural network built from scratch in plain Python — no ML libraries, fully configurable layers, neuron counts, and neural suppression | Python |
-| Citi Bike Analysis | Exploration of NYC biking habits using Citi Bike data — preprocessed raw data in Python and visualized findings in Tableau | Python, Tableau |
+| [Citi Bike Analysis](https://public.tableau.com/app/profile/m.rios/viz/CitiBikesandrentsthestory/Story1) | Exploration of NYC biking habits using Citi Bike data — preprocessed raw data in Python and visualized findings in Tableau | Python, Tableau |
 
 ---
 
